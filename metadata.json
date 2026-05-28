@@ -1,0 +1,6 @@
+{
+  "name": "MistInTunnel",
+  "description": "A high-fidelity Cognitive Digital Twin framework for MSMEs. Integrates Sales, HR, and Inventory twins with dynamic constraint simulations driven by Gemini-3.5-Intelligence to guide strategic alignments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
